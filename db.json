@@ -16,7 +16,8 @@
         "postarea_button_bg__hover": "#FDA38E",
         "postarea_bg": "#EDEFF1",
         "post_votes_bg": "#F8F6FC",
-        "post_bg": "#FBF8FF"
+        "post_bg": "#FBF8FF",
+        "mods_text": "#FC471E"
         },
         {
         "id": 2,
@@ -34,7 +35,8 @@
         "postarea_button_bg__hover": "#83B9B2",
         "postarea_bg": "##dae0e6",
         "post_votes_bg": "#f8f9fa",
-        "post_bg": "#FFFFFF"
+        "post_bg": "#FFFFFF",
+        "mods_text": "#077366"
         },
         {
         "id": 3,
@@ -52,7 +54,8 @@
         "postarea_button_bg__hover": "#A1A6AC",
         "postarea_bg": "#EEEEEE",
         "post_votes_bg": "#FCFCFC",
-        "post_bg": "#FFFFFF"
+        "post_bg": "#FFFFFF",
+        "mods_text": "#444E59"
         },
         {
         "id": 4,
@@ -70,7 +73,8 @@
         "postarea_button_bg__hover": "#f47f93",
         "postarea_bg": "#646d73",
         "post_votes_bg": "#e0e2e3",
-        "post_bg": "#FFFFFF"
+        "post_bg": "#FFFFFF",
+        "mods_text": "#ea0027"
         },
         {
         "id": 5,
@@ -88,7 +92,8 @@
         "postarea_button_bg__hover": "#80A4BF",
         "postarea_bg": "#f5f9fd",
         "post_votes_bg": "#fdfeff",
-        "post_bg": "#FFFFFF"
+        "post_bg": "#FFFFFF",
+        "mods_text": "#014980"
         },
         {
         "id": 6,
@@ -106,7 +111,8 @@
         "postarea_button_bg__hover": "#85a6bd",
         "postarea_bg": "#eef1f7",
         "post_votes_bg": "#fcfcfd",
-        "post_bg": "#FFFFFF"
+        "post_bg": "#FFFFFF",
+        "mods_text": "#85a6bd"
         },
         {
         "id": 7,
@@ -124,7 +130,8 @@
         "postarea_button_bg__hover": "#80A4BF",
         "postarea_bg": "#dae0e6",
         "post_votes_bg": "#f8f9fa",
-        "post_bg": "#FFFFFF"
+        "post_bg": "#FFFFFF",
+        "mods_text": "#014980"
         },
         {
         "id": 8,
@@ -142,7 +149,8 @@
         "postarea_button_bg__hover": "#7FBFBF",
         "postarea_bg": "#ebebeb",
         "post_votes_bg": "#fbfbfb",
-        "post_bg": "#FFFFFF"
+        "post_bg": "#FFFFFF",
+        "mods_text": "#008080"
         },
         {
         "id": 9,
@@ -160,7 +168,8 @@
         "postarea_button_bg__hover": "#FFA27F",
         "postarea_bg": "#eef2f5",
         "post_votes_bg": "#fcfcfd",
-        "post_bg": "#FFFFFF"
+        "post_bg": "#FFFFFF",
+        "mods_text": "#ff4500"
         },
         {
         "id": 10,
@@ -178,7 +187,8 @@
         "postarea_button_bg__hover": "#7FBCE9",
         "postarea_bg": "#dae0e6",
         "post_votes_bg": "#f8f9fa",
-        "post_bg": "#FFFFFF"
+        "post_bg": "#FFFFFF",
+        "mods_text": "#0079d3"
         }
     ]
 }
