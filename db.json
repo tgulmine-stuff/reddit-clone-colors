@@ -144,7 +144,7 @@
         "id": 8,
         "banner_sub_bg": "#68453B",
         "banner_sub_text": "#FF80B3",
-        "banner_links_bg": "#8ac3b6",
+        "banner_links_bg": "rgba(122,207,192,0.68)",
         "banner_links_posts": "#FFFFFF",
         "banner_links_text": "#edeff1",
         "banner_links_text__hover": "#ffffff",
